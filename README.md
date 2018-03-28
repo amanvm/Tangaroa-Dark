@@ -1,4 +1,4 @@
-# Tangaroa-Dark
+# Tangaroa Dark Theme
 Mac OS terminal theme with dark tangaroa background inspired by gnome theme Elio from http://mayccoll.github.io/Gogh/.
 
 ![alt text](screenshot.jpeg "example.cpp opened with GNU nano on terminal using Tangaroa-Dark theme")
